@@ -3,21 +3,21 @@
         {
             "id": "cat_1",
             "name": "maximo ",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/main/assets/daily/2026/06/03/images/cat_1.jpg?v=1780481635677",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/6715e415804c5bee073da2ec735f3bb9fdee226a/assets/daily/2026/06/03/images/cat_1.jpg",
             "description": "soy lo maximo ",
             "story": "soy súper maximo "
         },
         {
             "id": "cat_2",
             "name": "salchicha ",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/main/assets/daily/2026/06/03/images/cat_2.jpg?v=1780481637044",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/3282ed4d01b8dbc0759ce5609b9c114bdeab708f/assets/daily/2026/06/03/images/cat_2.jpg",
             "description": "soy una salchicha ",
             "story": "me gustan los hotdogs"
         },
         {
             "id": "cat_3",
             "name": "satan ",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/main/assets/daily/2026/06/03/images/cat_3.jpg?v=1780481638493",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/22a402ebda7ed38c8f8c8fc07b8ec38207c9d117/assets/daily/2026/06/03/images/cat_3.jpg",
             "description": "soy satan ",
             "story": "hago cosas malvadas"
         }
