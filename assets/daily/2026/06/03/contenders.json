@@ -2,17 +2,17 @@
     "contenders": [
         {
             "id": "cat_1",
-            "name": "luz brillante",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/25f307f6948b459b5d28eaccbd85fd0fa0ef5307/assets/daily/2026/06/03/images/cat_1.jpg",
+            "name": "platicon",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/ab8b9adf2075e44f0d04a1227d2b6f7975bb3537/assets/daily/2026/06/03/images/cat_1.jpg",
             "description": "lo más bonito de casa ",
-            "story": "cuando llegue a este hogar fui la luz más radiante "
+            "story": "soy el más parlanchin"
         },
         {
             "id": "cat_2",
-            "name": "iguanon",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/43bedd9782f5acefe06260a4c4352d432f28eefa/assets/daily/2026/06/03/images/cat_2.jpg",
-            "description": "si no me muevo no me ven ",
-            "story": "me gustan las frutas e ir de paseo"
+            "name": "fendandin",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/3ab00522cf36329913c1808241457dd52c39fe29/assets/daily/2026/06/03/images/cat_2.jpg",
+            "description": "chifla y chifla",
+            "story": "canta cuando nos ve"
         },
         {
             "id": "cat_3",
