@@ -3,21 +3,21 @@
         {
             "id": "cat_1",
             "name": "maximo ",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/25ac0d2e125b2084fab9c29231caf3ed5e536db6/assets/daily/2026/06/03/images/cat_1.jpg",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/584ce3c0ee29f99738c0ddc3c14a5feca2c290e7/assets/daily/2026/06/03/images/cat_1.jpg",
             "description": "soy lo maximo ",
             "story": "soy súper maximo "
         },
         {
             "id": "cat_2",
             "name": "salchicha ",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/1c5cd1a031927786e707b11b74809ab80221ca95/assets/daily/2026/06/03/images/cat_2.jpg",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/23dcad8b1515770d365791c26e29337bc7b2c149/assets/daily/2026/06/03/images/cat_2.jpg",
             "description": "soy una salchicha ",
             "story": "me gustan los hotdogs"
         },
         {
             "id": "cat_3",
             "name": "satan ",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/b152b7751e86f67890e0da9fc6644b2b15ba8937/assets/daily/2026/06/03/images/cat_3.jpg",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/432182169f5dd50845cd90dbe59a2b6f89902fdb/assets/daily/2026/06/03/images/cat_3.jpg",
             "description": "soy satan ",
             "story": "hago cosas malvadas"
         }
