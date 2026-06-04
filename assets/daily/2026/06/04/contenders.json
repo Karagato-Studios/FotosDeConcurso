@@ -1,0 +1,25 @@
+{
+    "contenders": [
+        {
+            "id": "cat_1",
+            "name": "iguana",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/5617a5bb22e26bd290c94de4fb9f132f9d1a966c/assets/daily/2026/06/04/images/cat_1.jpg",
+            "description": "iguana",
+            "story": "iguana"
+        },
+        {
+            "id": "cat_2",
+            "name": "capibara ",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/2926de60739eb6aaab84878d4e67204fffae26fd/assets/daily/2026/06/04/images/cat_2.jpg",
+            "description": "capibara ",
+            "story": "capibara"
+        },
+        {
+            "id": "cat_3",
+            "name": "iguana2",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/44bafb3efc22dd349d3893ec308a66516dbf7a14/assets/daily/2026/06/04/images/cat_3.jpg",
+            "description": "iguana2",
+            "story": "iguana2"
+        }
+    ]
+}
