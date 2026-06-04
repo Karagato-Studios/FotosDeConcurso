@@ -2,21 +2,21 @@
     "contenders": [
         {
             "id": "cat_1",
-            "name": "maximo ",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/584ce3c0ee29f99738c0ddc3c14a5feca2c290e7/assets/daily/2026/06/03/images/cat_1.jpg",
-            "description": "soy lo maximo ",
-            "story": "soy súper maximo "
+            "name": "luz brillante",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/25f307f6948b459b5d28eaccbd85fd0fa0ef5307/assets/daily/2026/06/03/images/cat_1.jpg",
+            "description": "lo más bonito de casa ",
+            "story": "cuando llegue a este hogar fui la luz más radiante "
         },
         {
             "id": "cat_2",
-            "name": "salchicha ",
-            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/23dcad8b1515770d365791c26e29337bc7b2c149/assets/daily/2026/06/03/images/cat_2.jpg",
-            "description": "soy una salchicha ",
-            "story": "me gustan los hotdogs"
+            "name": "iguanon",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/43bedd9782f5acefe06260a4c4352d432f28eefa/assets/daily/2026/06/03/images/cat_2.jpg",
+            "description": "si no me muevo no me ven ",
+            "story": "me gustan las frutas e ir de paseo"
         },
         {
             "id": "cat_3",
-            "name": "satan ",
+            "name": "gatito",
             "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/432182169f5dd50845cd90dbe59a2b6f89902fdb/assets/daily/2026/06/03/images/cat_3.jpg",
             "description": "soy satan ",
             "story": "hago cosas malvadas"
