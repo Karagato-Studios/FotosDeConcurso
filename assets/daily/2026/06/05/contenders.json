@@ -1,0 +1,25 @@
+{
+    "contenders": [
+        {
+            "id": "cat_1",
+            "name": "perry",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/5cf78393556a60598e70f7c1c14d4b402e657b3a/assets/daily/2026/06/05/images/cat_1.jpg",
+            "description": "yo salto y salto",
+            "story": "cuando era cachorro tiraba la comida"
+        },
+        {
+            "id": "cat_2",
+            "name": "malevolo",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/eb9475d7ca765b3bb9efefd95147521abfc9f868/assets/daily/2026/06/05/images/cat_2.jpg",
+            "description": "comida que veo comida que me pertenece",
+            "story": "me caen mal todos a menos que traigan comida"
+        },
+        {
+            "id": "cat_3",
+            "name": "tontín ",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/59570afb21bb47802dd32c49bc9be9841ab4a87f/assets/daily/2026/06/05/images/cat_3.jpg",
+            "description": "corro cuando hay lluvia",
+            "story": "no me gusta la lluvia "
+        }
+    ]
+}
