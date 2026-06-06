@@ -1,0 +1,25 @@
+{
+    "contenders": [
+        {
+            "id": "cat_1",
+            "name": "gallo guero",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/e5d336047412edc31461ae06d5598f57018cb9e4/assets/daily/2026/06/06/images/cat_1.jpg",
+            "description": "soy picudo",
+            "story": "como y duermo todo el dia"
+        },
+        {
+            "id": "cat_2",
+            "name": "cuyin",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/2054d365e221790bca451858305992f3c7db77d2/assets/daily/2026/06/06/images/cat_2.jpg",
+            "description": "comer es deporte",
+            "story": "como a todas horas y cualquier cosa"
+        },
+        {
+            "id": "cat_3",
+            "name": "betin",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/1a21435eafb69b340d4238d387f226fa4fd5ad8c/assets/daily/2026/06/06/images/cat_3.jpg",
+            "description": "me gusta el agua ",
+            "story": "la vida es pacífica para mí en este paraíso "
+        }
+    ]
+}
