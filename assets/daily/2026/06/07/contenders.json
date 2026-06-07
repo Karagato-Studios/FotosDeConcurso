@@ -1,0 +1,25 @@
+{
+    "contenders": [
+        {
+            "id": "cat_1",
+            "name": "cuyi",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/6476cc9138703dc00e6d1105a76d4fb89eadb2df/assets/daily/2026/06/07/images/cat_1.jpg",
+            "description": "cuyo",
+            "story": "cuyo"
+        },
+        {
+            "id": "cat_2",
+            "name": "gatito",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/14b35092e5140f853a1a82da61e4e690142ebbf7/assets/daily/2026/06/07/images/cat_2.jpg",
+            "description": "gato",
+            "story": "el gato"
+        },
+        {
+            "id": "cat_3",
+            "name": "salchicha ",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/16f31b5978278dc60547a04ddc9c9c9ed8c866a9/assets/daily/2026/06/07/images/cat_3.jpg",
+            "description": "salchi",
+            "story": "soy una salchicha "
+        }
+    ]
+}
