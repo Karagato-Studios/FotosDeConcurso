@@ -7,6 +7,11 @@
             "story": "soy un gato"
         },
         {},
-        {}
+        {
+            "id": "cat_3",
+            "name": "catus",
+            "image_url": "https://raw.githubusercontent.com/Karagato-Studios/FotosDeConcurso/5c49e82eb963b5a8a17653451e1e935bf28d6a8b/assets/daily/2026/06/13/images/cat_3.jpg",
+            "story": "catus"
+        }
     ]
 }
